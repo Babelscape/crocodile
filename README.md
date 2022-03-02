@@ -24,7 +24,7 @@ We want to thank the creators of the T-REx dataset, since this project wouldn't 
 
 To download the wikidata triplets run `startup.sh` 
 
-For `./wikiextractor` we use a submodule which is a fork of the original [wikiextractor](https://github.com/attardi/wikiextractor) that implements [wikimapper](https://pypi.org/project/wikimapper/) to extract the Wikidata entities.
+For `./wikiextractor` we use a submodule which is a fork of the original [wikiextractor](https://github.com/attardi/wikiextractor) that implements [wikimapper](https://pypi.org/project/wikimapper/) to extract the Wikidata entities. You can find the fork [here](https://github.com/LittlePea13/wikiextractor), and clone it to the corresponding folder.
 
 # Text Dumps
 
