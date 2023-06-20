@@ -92,3 +92,5 @@ All of the modules in the pipeline take the a single json file [as described bel
     }
 ```
 
+# License 
+CROCODILE is licensed under the CC BY-SA-NC 4.0 license. The text of the license can be found [here](https://github.com/Babelscape/crocodile/blob/master/LICENSE.md).
